@@ -15,7 +15,6 @@ def is_valid(l):
 
 
 def is_valid_v2(l):
-    # Try removing each number once and check if any resulting sequence is valid
     for i in range(len(l)):
         test_list = l[:i] + l[i + 1 :]
 
