@@ -1,3 +1,6 @@
+# DISCLAIMER: I have no idea what I'm doing and also the code is false lol.
+# I am not a functional bro :(
+
 defmodule TextParser do
   def parse_file_to_matrix(file_path) do
     # Read the file contents
